@@ -19,7 +19,6 @@
 ## Table of Contents
 
 - [About](#about)
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -29,10 +28,6 @@
 ## About
 
 Welcome to Language Detector, a versatile Python module that simplifies natural language processing tasks. This project offers language detection with high accuracy, and it includes a user-friendly Tkinter-based Graphical User Interface (GUI) for easy interaction. Whether you're a developer or a language enthusiast, this tool will help you identify and analyze languages in text effortlessly.
-
-## Demo
-
-![Language Detector Demo](demo.gif)
 
 For more visual insight, check out additional [screenshots](demo/) and a live demo on the [demo page](https://your-demo-url.com).
 
